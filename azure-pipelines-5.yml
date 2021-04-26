@@ -27,7 +27,7 @@ steps:
     ensureBackend: true
     backendAzureRmResourceGroupName: 'AppResource'
     backendAzureRmResourceGroupLocation: 'EAST US'
-    backendAzureRmStorageAccountName: 'AppStorage123'
+    backendAzureRmStorageAccountName: 'appstorage'
     backendAzureRmContainerName: 'AppContainer'
     backendAzureRmKey: 'kubernete-dev.tfstate'
     allowTelemetryCollection: true

@@ -26,7 +26,7 @@ steps:
     ensureBackend: true
     backendAzureRmResourceGroupName: 'Terraform-backend-rg'
     backendAzureRmResourceGroupLocation: 'East US'
-    backendAzureRmStorageAccountName: 'StorageAccountabc'
+    backendAzureRmStorageAccountName: 'storageaccountustglobal'
     backendAzureRmContainerName: 'StorageAccount'
     backendAzureRmKey: 'kubernete-dev.tfstate'
     allowTelemetryCollection: true
